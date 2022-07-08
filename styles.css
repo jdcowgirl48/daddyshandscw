@@ -6,3 +6,8 @@ img {
     height: auto;
     width: 300px;
 }
+
+.card {
+    height:auto;
+    width: fit-content;
+}
