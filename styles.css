@@ -12,12 +12,17 @@ img {
 .card {
     height:auto;
     width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bench {
     height: auto;
     width: 400px;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
