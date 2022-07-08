@@ -12,3 +12,7 @@ img {
     height:auto;
     width: fit-content;
 }
+
+a {
+    color: white;
+}
